@@ -1,3 +1,5 @@
+# LogisticRegression
+
 Introdution of Project
 
 The project focuses on analyzing an advertising dataset that records whether or not a particular internet user clicked on an advertisement. The primary objective of this project is to create a predictive model that can determine whether a user will click on an advertisement based on their features.
